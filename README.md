@@ -1,5 +1,6 @@
 # LAB4_MySQL
 
+
       # 1️⃣ État des tables après les INSERT
       
 <img width="307" height="160" alt="image" src="https://github.com/user-attachments/assets/0a3f8b34-3e7d-4299-a241-3fa50ec95b0a" />
