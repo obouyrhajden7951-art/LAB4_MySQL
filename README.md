@@ -8,7 +8,7 @@
 <img width="575" height="164" alt="image" src="https://github.com/user-attachments/assets/69db9c0f-2811-42ad-9976-2c9a66eebae6" />
 
       # 2️⃣ Résultat d’un UPDATE
-      
+
 <img width="717" height="404" alt="image" src="https://github.com/user-attachments/assets/1910d164-4ad4-4343-9649-4417bf365e7e" />
 
       #  3️⃣ Message d’erreur lors d’un DELETE bloqué par la contrainte
